@@ -1,0 +1,13 @@
+{
+  "name": "voltcraft-live-dev-tests",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Optional development tests for Voltcraft Live; the application uses Python stdlib only",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "test": "node tests/test_ui.cjs"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  }
+}

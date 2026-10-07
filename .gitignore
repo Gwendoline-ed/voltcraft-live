@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+*.log
+voltcraft-aufnahme-*.json
+voltcraft-live-*.json
+profiles.json
+eigene-profile.json
+custom-profiles.json
+aufnahme.json
+acquisition.json
+*.png
+*.zip
